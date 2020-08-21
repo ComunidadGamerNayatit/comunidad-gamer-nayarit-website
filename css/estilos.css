@@ -50,8 +50,9 @@ body{
   padding-top: 15px;
 }
 #menu_button{
-  width: 90px;
+  width: 70px;
   display: none;
+  margin-top: 10px;
   margin-left: 100px;
   margin-right: 15px;
 }
