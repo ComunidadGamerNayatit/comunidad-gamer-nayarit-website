@@ -5,6 +5,10 @@
 *{
   padding: 0;
 }
+a{
+  text-decoration: none;
+
+}
 
 html{
   box-sizing: border-box;
@@ -21,8 +25,11 @@ html{
   padding: 0 auto;
 }
 .clear{
-  padding-top: 2px;
-  padding-bottom: 2px
+  margin-top: 2px;
+  margin-bottom: 2px;
+  min-width: 100%;
+  width: 200px
+  float:center;
 
 }
 
@@ -31,7 +38,66 @@ body{
   background-color: #240040;
   margin: 0 0 100px;
   height: 100%;
+  padding-bottom: 400px;
 }
+
+
+
+
+.art-preview{
+  background-color: rgb(117,59,189);
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+  margin-bottom: 40px;
+  padding-bottom: 0;
+  border-radius: 20px;
+  max-width: 40%;
+  max-height: 40%;
+  height: 40%;
+  color: white;
+}
+
+.img-preview-art{
+  max-width: 100%;
+  display:block;
+  max-height: 90%;
+  height: auto;
+  width:85%;
+  margin-bottom: 5px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 5px;
+
+}
+
+.preview-titular{
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+
+}
+.footer-preview{
+  background-color:  rgb(250,244,4);
+  max-width: 100%;
+  margin-top: 10px;
+  margin-bottom: 0;
+  height: 40px;
+  border-radius: 10px 10px 0px 0px;
+  padding-top: 15px;
+  text-decoration:none;
+}
+
+.footer-preview a{
+  color:  rgb(117,59,189);
+
+}
+
+
+
+
+
+
 .link{
   color: black;
   text-decoration: none;
@@ -84,9 +150,12 @@ body{
   min-height: 100%;
   margin-left: 20PX;
   margin-right: 20px;
-  padding-bottom: 100px;
+  margin-bottom: 400px;
   padding-top: 130px;
+  max-width: 90%
 }
+
+
 
 .articulo-w{
   color: white;
@@ -100,6 +169,7 @@ body{
   margin-left: 15px;
   margin-right: 15px;
   margin-bottom: 50px;
+  min-height: 100%
 
 }
 
@@ -125,7 +195,6 @@ body{
   bottom: 0;
   margin-top: 40px;
   overflow: hide;
-  margin-top: -100px;
   clear: both;
 }
 
