@@ -7,43 +7,43 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="300.39999"
-   inkscape:export-xdpi="300.39999"
-   inkscape:export-filename="/home/oscar-huerta/Documentos/briefing cgn/CGN2020.png"
-   sodipodi:docname="CGN2020.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   id="svg1321"
+   width="170mm"
+   height="170mm"
+   viewBox="0 0 170 170"
    version="1.1"
-   viewBox="0 0 210 190"
-   height="190mm"
-   width="210mm">
+   id="svg1321"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="CGN2020.svg"
+   inkscape:export-filename="/home/oscar-huerta/Documentos/briefing cgn/CGN2020.png"
+   inkscape:export-xdpi="300.39999"
+   inkscape:export-ydpi="300.39999">
   <defs
      id="defs1315" />
   <sodipodi:namedview
-     inkscape:guide-bbox="true"
-     showguides="true"
-     inkscape:window-maximized="1"
-     inkscape:window-y="0"
-     inkscape:window-x="0"
-     inkscape:window-height="744"
-     inkscape:window-width="1024"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="402.64522"
-     inkscape:cx="418.196"
-     inkscape:zoom="0.2184397"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base">
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.1637342"
+     inkscape:cx="419.37492"
+     inkscape:cy="404.31449"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1052"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
     <sodipodi:guide
-       id="guide2324"
+       position="330.74981,-41.571602"
        orientation="1,0"
-       position="330.74981,-41.571602" />
+       id="guide2324" />
   </sodipodi:namedview>
   <metadata
      id="metadata1318">
@@ -58,75 +58,64 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Capa 1"
      inkscape:groupmode="layer"
-     inkscape:label="Capa 1">
+     id="layer1">
     <rect
-       style="fill:#fce300;fill-opacity:0.980392;stroke-width:0.264583;paint-order:fill markers stroke"
-       id="rect2205"
-       width="100.44449"
+       ry="6.2908659"
+       y="8.0371332"
+       x="37.943184"
        height="103.19102"
-       x="55.313747"
-       y="8.0427895"
-       ry="6.2908659" />
-    <rect
-       ry="4.6381383"
-       y="27.704559"
-       x="86.020973"
-       height="26.194214"
-       width="25.306274"
-       id="rect2207"
-       style="fill:#753bbd;fill-opacity:1;stroke-width:7.96499;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:23.895, 7.96499;stroke-dashoffset:0;paint-order:fill markers stroke" />
+       width="100.44449"
+       id="rect2205"
+       style="fill:#fce300;fill-opacity:0.980392;stroke-width:0.264583;paint-order:fill markers stroke" />
     <rect
        style="fill:#753bbd;fill-opacity:1;stroke-width:7.96499;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:23.895, 7.96499;stroke-dashoffset:0;paint-order:fill markers stroke"
-       id="rect2209"
+       id="rect2207"
        width="25.306274"
        height="26.194214"
-       x="93.991554"
-       y="59.022087"
+       x="68.650414"
+       y="27.698904"
        ry="4.6381383" />
     <rect
        ry="4.6381383"
-       y="59.218323"
-       x="124.51188"
+       y="59.01643"
+       x="76.620995"
        height="26.194214"
        width="25.306274"
-       id="rect2211"
+       id="rect2209"
        style="fill:#753bbd;fill-opacity:1;stroke-width:7.96499;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:23.895, 7.96499;stroke-dashoffset:0;paint-order:fill markers stroke" />
     <rect
-       ry="4.6381383"
-       y="59.218323"
-       x="63.615589"
-       height="26.194214"
+       style="fill:#753bbd;fill-opacity:1;stroke-width:7.96499;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:23.895, 7.96499;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="rect2211"
        width="25.306274"
+       height="26.194214"
+       x="107.14132"
+       y="59.212666"
+       ry="4.6381383" />
+    <rect
+       style="fill:#753bbd;fill-opacity:1;stroke-width:7.96499;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:23.895, 7.96499;stroke-dashoffset:0;paint-order:fill markers stroke"
        id="rect2213"
-       style="fill:#753bbd;fill-opacity:1;stroke-width:7.96499;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:23.895, 7.96499;stroke-dashoffset:0;paint-order:fill markers stroke" />
+       width="25.306274"
+       height="26.194214"
+       x="46.245026"
+       y="59.212666"
+       ry="4.6381383" />
     <text
-       xml:space="preserve"
+       id="text2219"
+       y="161.78633"
+       x="16.85886"
        style="font-style:italic;font-weight:bold;font-size:7.89101px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.999998"
-       x="34.229424"
-       y="161.79198"
-       id="text2219"><tspan
-         id="tspan2215"
-         x="34.229424"
-         y="161.79198"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:56.3644px;font-family:Orbitron;-inkscape-font-specification:'Orbitron Heavy';fill:#ffffff;fill-opacity:1;stroke-width:0.999998"
-         sodipodi:role="line">CGN</tspan><tspan
-         x="34.229424"
-         y="189.91032"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.89101px;font-family:Orbitron;-inkscape-font-specification:'Orbitron Heavy';fill:#ffffff;fill-opacity:1;stroke-width:0.999998"
-         id="tspan2217"
-         sodipodi:role="line" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-weight:bold;font-size:84.8837px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;fill:#ffffff;stroke-width:0.264583"
-       x="7.4503212"
-       y="181.42094"
-       id="text2223"><tspan
+       xml:space="preserve"><tspan
          sodipodi:role="line"
-         id="tspan2221"
-         x="7.4503212"
-         y="181.42094"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.5815px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583">Comunidad Gamer Nayarit</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:56.3644px;font-family:Orbitron;-inkscape-font-specification:'Orbitron Heavy';fill:#ffffff;fill-opacity:1;stroke-width:0.999998"
+         y="161.78633"
+         x="16.85886"
+         id="tspan2215">CGN</tspan><tspan
+         sodipodi:role="line"
+         id="tspan2217"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.89101px;font-family:Orbitron;-inkscape-font-specification:'Orbitron Heavy';fill:#ffffff;fill-opacity:1;stroke-width:0.999998"
+         y="189.90468"
+         x="16.85886" /></text>
   </g>
 </svg>
