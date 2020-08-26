@@ -26,7 +26,7 @@ html {
   margin-top: 2px;
   margin-bottom: 2px;
   min-width: 100%;
-  width: 200px;
+  width: 100%;
   float: inherit;
 }
 
@@ -119,6 +119,7 @@ blockquote small {
 }
 
 .art-preview {
+  align-items:center;
   background-color: rgb(117, 59, 189);
   padding-left: 15px;
   padding-right: 15px;
@@ -127,8 +128,7 @@ blockquote small {
   margin-top: 10px;
   padding-bottom: 0;
   border-radius: 20px;
-  min-width: 40%;
-  max-width: 30%;
+  max-width: 38%;
   max-height: 40%;
   height: 40%;
   color: white;
@@ -229,17 +229,17 @@ blockquote small {
 }
 
 .articulo-w {
-  display: block;
   color: white;
   font-family: sans-serif;
   background-color: #170029;
+  max-width: 90%;
   padding-top: 10px;
   padding-left: 15px;
   padding-right: 15px;
   padding-bottom: 40px;
   border-radius: 10px;
-  margin-left: 15px;
-  margin-right: 15px;
+  margin-left: 5px;
+  margin-right: 5px;
   margin-bottom: 200px;
   min-height: 100%
 }
@@ -261,8 +261,6 @@ blockquote small {
 
 .content-w{
   padding-top: 10px;
-  padding-left: 15px;
-  padding-right: 15px;
   padding-bottom: 40px;
   border-radius: 10px;
   margin-left: 15px;
